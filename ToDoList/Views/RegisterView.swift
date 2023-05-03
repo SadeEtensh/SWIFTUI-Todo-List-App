@@ -9,7 +9,30 @@ import SwiftUI
 
 struct RegisterView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        VStack{
+            ZStack {
+                RoundedRectangle(cornerRadius: 0)
+                    .foregroundColor(Color.orange)
+                    .rotationEffect(Angle(degrees: -15))
+                VStack {
+                    Text("Register")
+                        .font(.system(size: 50))
+                        .foregroundColor(Color.white)
+                        .bold()
+                         
+                    Text("Start Organizing todos")
+                        .font(.system(size: 30))
+                        .foregroundColor(Color.white)
+                }.padding(.top, 30)
+            }
+            .frame(width: UIScreen.main.bounds.width * 3
+                   , height: 300)
+            .offset(y:-100)
+            Spacer()
+        }
+            
+        
     }
 }
 

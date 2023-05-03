@@ -12,7 +12,7 @@ struct HeaderView: View {
         
         ZStack {
             RoundedRectangle(cornerRadius: 0)
-                .foregroundColor(Color.pink)
+                .foregroundColor(Color.indigo)
                 .rotationEffect(Angle(degrees: 15))
             VStack {
                 Text("To Do List")

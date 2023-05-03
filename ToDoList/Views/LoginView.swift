@@ -28,7 +28,7 @@ struct LoginView: View {
                     } label: {
                         ZStack {
                             RoundedRectangle(cornerRadius: 10)
-                                .foregroundColor(Color.blue)
+                                .foregroundColor(Color.indigo)
                             Text("Log In")
                                 .foregroundColor(Color.white)
                                 .bold()
