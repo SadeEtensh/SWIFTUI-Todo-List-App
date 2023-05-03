@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C4D82E12A024037006E6FA9 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C4D82E02A024037006E6FA9 /* HeaderView.swift */; };
 		1C5C15CA2A01487F00AB14A6 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C15C92A01487F00AB14A6 /* ToDoListApp.swift */; };
 		1C5C15CC2A01487F00AB14A6 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C15CB2A01487F00AB14A6 /* MainView.swift */; };
 		1C5C15CE2A01488100AB14A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5C15CD2A01488100AB14A6 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C4D82E02A024037006E6FA9 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		1C5C15C62A01487F00AB14A6 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C5C15C92A01487F00AB14A6 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		1C5C15CB2A01487F00AB14A6 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				1C5C15EC2A01512300AB14A6 /* LoginView.swift */,
 				1C5C15EE2A01513900AB14A6 /* RegisterView.swift */,
 				1C5C15F02A01518800AB14A6 /* ToDoListItemView.swift */,
+				1C4D82E02A024037006E6FA9 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C5C15ED2A01512300AB14A6 /* LoginView.swift in Sources */,
+				1C4D82E12A024037006E6FA9 /* HeaderView.swift in Sources */,
 				1C5C15CC2A01487F00AB14A6 /* MainView.swift in Sources */,
 				1C5C16012A0152A300AB14A6 /* RegisterViewViewModel.swift in Sources */,
 				1C5C15F72A01523A00AB14A6 /* MainViewViewModel.swift in Sources */,
