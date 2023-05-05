@@ -59,6 +59,7 @@
 		1C5C16002A0152A300AB14A6 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		1C5C16022A0152C100AB14A6 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		1C81B1882A0553D700951066 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
+		1C81B18A2A056E4900951066 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		1C5C15BD2A01487F00AB14A6 = {
 			isa = PBXGroup;
 			children = (
+				1C81B18A2A056E4900951066 /* README.md */,
 				1C5C15C82A01487F00AB14A6 /* ToDoList */,
 				1C5C15C72A01487F00AB14A6 /* Products */,
 			);
