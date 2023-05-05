@@ -1,6 +1,11 @@
 #  ToDO Listing App With FireBase
 
-ToDo App Using Firebase As Backend 
+ToDo App Using Firebase As Backend With MVVM Design Pattern
 
 
-![Todo Listing App](Screenshot.png)
+
+![Login Page of  App](Screenshot.png)
+
+![Registration Page of App](register.png)
+
+

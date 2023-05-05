@@ -61,6 +61,7 @@
 		1C81B1882A0553D700951066 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		1C81B18A2A056E4900951066 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1C81B18D2A05717A00951066 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
+		1C81B1902A0572A900951066 /* register.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = register.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				1C81B18D2A05717A00951066 /* Screenshot.png */,
+				1C81B1902A0572A900951066 /* register.png */,
 				1C81B18A2A056E4900951066 /* README.md */,
 				1C5C15C82A01487F00AB14A6 /* ToDoList */,
 				1C5C15C72A01487F00AB14A6 /* Products */,
