@@ -32,6 +32,7 @@
 		1C5C16012A0152A300AB14A6 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C16002A0152A300AB14A6 /* RegisterViewViewModel.swift */; };
 		1C5C16032A0152C100AB14A6 /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5C16022A0152C100AB14A6 /* ToDoListItemViewViewModel.swift */; };
 		1C81B1892A0553D700951066 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C81B1882A0553D700951066 /* TLButton.swift */; };
+		1C81B18C2A05707B00951066 /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C81B18B2A05707B00951066 /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		1C5C16022A0152C100AB14A6 /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		1C81B1882A0553D700951066 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		1C81B18A2A056E4900951066 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1C81B18B2A05707B00951066 /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Screenshot.png; path = ../../../Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				1C81B18A2A056E4900951066 /* README.md */,
+				1C81B18B2A05707B00951066 /* Screenshot.png */,
 				1C5C15C82A01487F00AB14A6 /* ToDoList */,
 				1C5C15C72A01487F00AB14A6 /* Products */,
 			);
@@ -231,6 +234,7 @@
 			files = (
 				1C5C15D12A01488100AB14A6 /* Preview Assets.xcassets in Resources */,
 				1C5C15CE2A01488100AB14A6 /* Assets.xcassets in Resources */,
+				1C81B18C2A05707B00951066 /* Screenshot.png in Resources */,
 				1C5C15DF2A014D6900AB14A6 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

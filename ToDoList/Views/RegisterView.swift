@@ -19,7 +19,6 @@ struct RegisterView: View {
                        subtitle: "Start Organizing todos",
                        angle: -15,
                        background: .orange)
-            
             Form {
                 TextField("Full Name", text: $name)
                     .textFieldStyle(DefaultTextFieldStyle())
